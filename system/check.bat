@@ -1,0 +1,1 @@
+dbmaintain.bat checkScriptUpdates %1

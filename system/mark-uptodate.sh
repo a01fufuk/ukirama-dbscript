@@ -1,0 +1,1 @@
+./dbmaintain.sh markDatabaseAsUpToDate $1

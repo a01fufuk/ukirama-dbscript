@@ -1,0 +1,1 @@
+./dbmaintain.sh checkScriptUpdates $1

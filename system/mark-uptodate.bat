@@ -1,0 +1,1 @@
+dbmaintain.bat markDatabaseAsUpToDate %1

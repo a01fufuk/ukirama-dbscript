@@ -1,0 +1,1 @@
+./dbmaintain.sh createScriptArchive $1 ../src/main

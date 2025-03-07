@@ -1,0 +1,1 @@
+dbmaintain.bat createScriptArchive %1 ../src/main

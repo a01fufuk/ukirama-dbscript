@@ -1,0 +1,6 @@
+aakaoisnasbiaaaaaaaaaaaaa
+ajnjabhsbjhab baaanjshbsjaknskbdakdb
+
+./create.sh stanza.zip  
+ ./check.sh stanza.zip  
+ ./update.sh stanza.zip  

@@ -1,0 +1,1 @@
+dbmaintain.bat updateDatabase %1
