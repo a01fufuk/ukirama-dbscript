@@ -13,7 +13,7 @@ CREATE TABLE invoice (
   customer varchar(512),
   warehouse	VARCHAR(512),
   product	VARCHAR(512),
-  quantity	VARCHAR(512),
+  quantity	DECIMAL,
   unit	VARCHAR(512),
   price	DECIMAL,
   total_price	DECIMAL,
